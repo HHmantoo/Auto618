@@ -24,3 +24,8 @@
     视频里面有两处需要手动干涉下，后续之后都是自动完成，如果不动了就重启下脚本，没办法保证脚本一开就全自动完成
 
 # 源码运行安装autoxjs后导入代码，点击运行即可。
+
+
+## Stargazers over time
+
+[![Stargazers over time](https://starchart.cc/HHmantoo/Auto618.svg)](https://starchart.cc/HHmantoo/Auto618)
