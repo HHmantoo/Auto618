@@ -27,5 +27,4 @@
 
 
 ## Stargazers over time
-
-[![Stargazers over time](https://starchart.cc/HHmantoo/Auto618.svg)](https://starchart.cc/HHmantoo/Auto618)
+[![Stargazers over time](https://starchart.cc/HHmantoo/Auto618.svg?variant=adaptive)](https://starchart.cc/HHmantoo/Auto618)
