@@ -11,10 +11,6 @@
 
 - 要先做好新手教程
 
-- 版本说明：JD(11.0.2) TB(10.29.10)
-
-- 测试手机型号：Redmi K40,MI CC9e
-
 - [AutoX.js](http://doc.autoxjs.com/#/)
 
 - 教程视频：
@@ -33,6 +29,7 @@
 
 https://zhuilao.eu.org
 
+长期挂京东的 可以私聊发我 账号也就是手机号 密码 一次登录永久有效  手机号#密码#还有对应的pin  不知道pin是什么的 把网页登录成功截图转发给我
 
 ## Stargazers over time
 [![Stargazers over time](https://starchart.cc/HHmantoo/Auto618.svg?variant=adaptive)](https://starchart.cc/HHmantoo/Auto618)
